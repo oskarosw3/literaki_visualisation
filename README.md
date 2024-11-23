@@ -1,4 +1,6 @@
-# literaki_visualisation
+# Literaki visualisation
+
+Project that takes a file in the format given by literaki (polish scrabble) in kurnik.pl and displays the final state of the board.
 
 
 to do:
